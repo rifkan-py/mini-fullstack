@@ -1,0 +1,1 @@
+.services{margin-top:1rem;background:#e4e4e4;padding:1rem;display:grid;grid-template-columns:repeat(4, 1fr);gap:1rem}.service{display:flex;align-items:center;gap:1rem}.service:not(:last-child){border-right:1px solid #d5d5d5}.service div{display:flex;flex-direction:column}
